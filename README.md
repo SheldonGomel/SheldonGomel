@@ -7,9 +7,9 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
- <img src="https://camo.githubusercontent.com/d48bf45d053874b992274f9317407809da4869d1e6af51cc988295630a991018/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" alt="Prettier" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/podmanio/podmanio-icon.svg" alt="react" width="40" height="40"/> 
