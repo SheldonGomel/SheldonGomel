@@ -9,19 +9,18 @@
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> 
- <img src="https://vectorwiki.com/images/aIhRa__rxjs.svg" alt="rxjs" width="40" height="40"/> 
- <img src="https://vectorwiki.com/images/5gTex__next-js.svg" alt="nextjs" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> 
 </p>
+<!--
 <h2 align="left">My Stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheldonGomel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=SheldonGomel)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **SheldonGomel/SheldonGomel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
