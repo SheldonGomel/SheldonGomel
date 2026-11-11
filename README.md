@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AI
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
